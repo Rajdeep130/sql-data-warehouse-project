@@ -10,3 +10,6 @@ WITH (
 
 SELECT COUNT(*) FROM bronze.crm_cust_info;
 
+
+but i have use flat file load because this process showing errors
+
